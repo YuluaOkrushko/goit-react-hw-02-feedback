@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    padding: 0;
+    color: rgb(109, 104, 104);
+  }
+  .total {
+    color: rgb(109, 104, 104);
+  }
+  .feedback {
+    padding-bottom: 16px;
+    font-size: 30px;
+    color: rgb(244, 164, 96);
+    font-weight: 700;
+  }

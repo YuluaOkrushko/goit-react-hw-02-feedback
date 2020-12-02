@@ -1,0 +1,13 @@
+.wrapper {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    background-color: rgb(255, 255, 224);
+  }
+  
+  .title {
+    margin: 0;
+    padding: 16px 0;
+    font-size: 30px;
+    color: rgb(244, 164, 96);
+  }
